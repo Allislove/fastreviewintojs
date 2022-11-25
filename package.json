@@ -1,0 +1,15 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "Guia acerca de los conceptos básicos de ECMAScript6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecmascript6",
+    "js"
+  ],
+  "author": "Andrés Romaña",
+  "license": "ISC"
+}
